@@ -109,3 +109,4 @@ class _QuranDetailState extends State<QuranDetail> {
   }
 }
 
+///////////////////////////////////
