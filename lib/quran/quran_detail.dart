@@ -70,6 +70,7 @@ class _QuranDetailState extends State<QuranDetail> {
                   Icon(Icons.play_circle, size: 32, color: theme.primaryColor,)
                 ],
               ),
+              ///////////////////////////////////
               const Divider(
                 indent: 25,
                 endIndent: 25,
